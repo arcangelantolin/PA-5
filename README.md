@@ -148,7 +148,7 @@ round(9*X(1)+csc(3)*X(2)-11*X(3)-(6/5)*X(4)+2*X(5));
 Now, in MATLAB, we are able to perform elementwise comparisons. Meaning, we can check to see each element matches each other. Using the the operation B == C, with B being the solution matrix and C the computed values with the unknown values we solved earlier, we see that the matrix that this operation yields is:
 
 $$
-X = \begin{bmatrix}
+\begin{bmatrix}
 1 \\
 1 \\
 1 \\
@@ -199,7 +199,7 @@ round(9*X(1)+csc(3)*X(2)-11*X(3)-(6/5)*X(4)+2*X(5));
 Using the the operation B == C, with B being the solution matrix and C the computed values with the unknown values we solved earlier, we see that the matrix that this operation yields is:
 
 $$
-X = \begin{bmatrix}
+\begin{bmatrix}
 1 \\
 1 \\
 1 \\
